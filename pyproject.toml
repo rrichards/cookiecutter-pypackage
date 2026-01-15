@@ -42,7 +42,7 @@ test = [
 ]
 
 [project.urls]
-homepage = "https://github.com/audreyfeldroy/cookiecutter-pypackage"
+homepage = "https://github.com/rrichards/cookiecutter-pypackage"
 
 [tool.ruff]
 exclude = [
